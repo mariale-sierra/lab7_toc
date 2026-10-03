@@ -1,7 +1,9 @@
 # Laboratorio 7 - simplificación de gramáticas
 
-### Alejandra Sierra 
-### Camila Sandoval
+#### Alejandra Sierra #24405
+#### Camila Sandoval #24358
+
+#### Link a video: https://youtu.be/paUBY_08Khg 
 
 El programa `simplificar_gramatica.py` valida un archivo de producciones y
 elimina las producciones-epsilon mostrando el procedimiento completo. Usa
